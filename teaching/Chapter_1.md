@@ -1,6 +1,6 @@
 ###  课件下载
 
-[ <a href='PPT_chap01.pptx'>PPT点此下载</a>]
+[ <a href='chap01.pptx'>PPT点此下载</a>]
 
 ### 口腔颌面部肿瘤案例分析
 
