@@ -1,2 +1,5 @@
-* [1. 口腔外科](Chapter_1.md)
-* [2. 口腔外科2](Chapter_2.md)
+* [最新通知](notice.md)
+* [考核和评价方式](introduction.md)
+* [教学安排](schedule.md)
+* [第一课：口腔颌面部肿瘤](chapter_1.md)
+
