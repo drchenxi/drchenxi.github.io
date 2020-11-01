@@ -38,7 +38,7 @@ X线检查可助诊断，其表现不一（图2），可为蜂窝状，皂泡状
 
  
 
-![img](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+![0102](pic/0102.jpg)
 
 图2 X片示：成釉细胞瘤（下颌体部）
 
@@ -78,7 +78,7 @@ X线检查可助诊断，其表现不一（图2），可为蜂窝状，皂泡状
 
 口腔癌按其发生部位可分为龈癌（Carcinoma of gingiva）、唇癌（Carcinoma of lip）、颊癌（Carcinoma of buccalmucosa）、舌癌（Carcinoma of tongue）、口底癌（Carcinoma of floor of the mouth）、腭癌（carcinoma of palate）、上颌窦癌（Carcinoma of the maxillary sinus）等（图7-11）。一般认为口腔前部的癌肿分化程度较高，口腔后部的癌肿分化程度较低。
 
- 
+ ![0107](pic/0107.jpg)
 
 ![img](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
 
@@ -106,7 +106,7 @@ X线检查可助诊断，其表现不一（图2），可为蜂窝状，皂泡状
 
 根端囊肿是最常见的颌骨性牙源性囊肿。来自慢性牙周炎的根尖肉芽肿。由于慢性炎症的刺激，肉芽肿内的上皮组织增生，中央变性、液化，逐渐形成囊肿（图12）。囊肿内壁为复层鳞状上皮，外层有纤维组织。腔内含有淡黄色液体。
 
-![img](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+![0112](pic/0112.png)
 
 图12 根尖囊肿
 
