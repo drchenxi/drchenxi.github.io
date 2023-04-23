@@ -1,6 +1,6 @@
 ##  课件下载
 
-[ <a href='chap04.pptx'>PPT点此下载</a>]
+[ <a href='chap06.pptx'>PPT点此下载</a>]
 
 ## 唾液腺常见疾病重点
 

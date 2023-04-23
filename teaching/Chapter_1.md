@@ -1,6 +1,6 @@
 ##  课件下载
 
-[ <a href='chap07.pptx'>PPT点此下载</a>]
+[ <a href='chap01.pptx'>PPT点此下载</a>]
 
 ## 口腔颌面部解剖重点
 

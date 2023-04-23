@@ -1,6 +1,6 @@
 ##  课件下载
 
-[ <a href='chap02.pptx'>PPT点此下载</a>]
+[ <a href='chap04.pptx'>PPT点此下载</a>]
 
 ## 口腔颌面部感染重点
 
